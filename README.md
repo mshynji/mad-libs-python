@@ -30,7 +30,7 @@ After developing this tool, I now have a deeper understanding of several concept
 
 ### Running (step-by-step)
 ```bash
-    ~$ git clone https://github.com/mira-oza/mad-libs-python
+    ~$ git clone https://github.com/mira-oza/mad-libs-python.git
     ~$ cd mad-libs-python/
     ~$ python -m mad_libs || python3 -m mad_libs
 ```
