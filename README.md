@@ -20,6 +20,7 @@ After developing this tool, I now have a deeper understanding of several concept
 │       ├── sample_adjectives.txt
 │       ├── sample_nouns.txt
 │       └── sample_verbs.txt
+│   
 └── README.md
 ```
 
