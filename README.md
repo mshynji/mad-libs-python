@@ -1,9 +1,6 @@
 # Mad Libs Solution Generation
 
-## Description
-With the main goal of learning project structuring in Python, I built this application with the sole purpose of giving samples of answers to a mad libs game. It reads all lines from a sample file and turns them into a word list, which can be a noun, verb or an adjective list. With that, the user is prompted to input a sample phrase formatted to the applications standard, from which it will be returned a completed phrase.
-
-After developing this tool, I now have a deeper understanding of several concepts, like project structuring, file manipulation, list manipulation, input handling, code commenting and module building. 
+With the main goal of learning project structuring in Python, I built this application with the sole purpose of giving samples of answers to a mad libs game. It reads all lines from a sample file and turns them into a word list, which can be a noun, verb or an adjective list. With that, the user is prompted to input a sample phrase formatted in the application's standard, from which it will be returned a completed phrase.
 
 ## Working tree
 ```bash
@@ -27,6 +24,7 @@ After developing this tool, I now have a deeper understanding of several concept
 ## Instalation
 ### Requirements
 - Python 3
+- python-is-python3 (optional)
 
 ### Running (step-by-step)
 ```bash
