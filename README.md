@@ -21,7 +21,7 @@ With the main goal of learning project structuring in Python, I built this appli
 └── README.md
 ```
 
-## Instalation
+## Installation
 ### Requirements
 - Python 3
 - python-is-python3 (optional)
