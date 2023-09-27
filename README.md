@@ -28,7 +28,7 @@ With the main goal of learning project structuring in Python, I built this appli
 
 ### Running (step-by-step)
 ```bash
-    ~$ git clone https://github.com/mShynji/mad-libs-python.git
+    ~$ git clone https://github.com/mshynji/mad-libs-python.git
     ~$ cd mad-libs-python/
     ~$ python -m mad_libs || python3 -m mad_libs
 ```
